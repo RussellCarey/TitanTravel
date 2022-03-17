@@ -1,9 +1,10 @@
 # Titan Travel Booking
 
-An app made to practice SQL.  
+An app made to practice SQL back in mid 2021.
 User can search for flights between stations (Moon, Mars etc).
 
-![alt text](https://github.com/RussellCarey/Tasky/raw/master/Design/gif1.gif)
+![alt text](https://github.com/RussellCarey/TitanTravel/blob/master/design/screen1.png?raw=true)
+![alt text](https://github.com/RussellCarey/TitanTravel/blob/master/design/screen2.png?raw=true)
 
 ## Table of contents
 
