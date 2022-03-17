@@ -1,0 +1,42 @@
+export const theme = {
+  colors: {
+    white: "#fff",
+    blue: "rgba(26, 32, 45, 1)",
+    blueOpaque: "rgba(26, 32, 45, 0.9)",
+    blueShadow: "rgba(26, 32, 45, 0.1)",
+    yellow: "#FFFBE3",
+    yellowOpaque: " rgba(255, 254, 179, 0.30)",
+    grey: "rgba(247, 246, 244)",
+    red: "red",
+    green: "green",
+  },
+  fontsizes: {
+    xxsmall: "1rem",
+    xsmall: "1.3rem",
+    small: "1.6rem",
+    medium: "2rem",
+    large: "2.6rem",
+    xlarge: "3.3rem",
+    xxlarge: "4.2rem",
+  },
+  lineheight: {
+    xsmall: "2rem",
+    small: "2.4rem",
+    medium: "3rem",
+    large: "3.9rem",
+    xlarge: "4.9rem",
+    xxlarge: "6.2rem",
+  },
+  spacing: {
+    xsmall: "0.4rem",
+    small: "0.9rem",
+    medium: "2.4rem",
+    large: "3.9rem",
+    xlarge: "",
+    xxLarge: "",
+  },
+  breakpoints: {
+    small: "1000px",
+    ipad: "800px",
+  },
+};
