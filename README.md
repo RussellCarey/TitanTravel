@@ -52,3 +52,6 @@ Project was created so I could practice SQL / Postgres at the start of learning 
 ## Contact
 
 Created by [@RussellCarey](https://twitter.com/russellcareyy) - feel free to contact me about the project
+
+## Code used to input random flights over the year (little messy)..
+![alt text](https://github.com/RussellCarey/TitanTravel/blob/master/design/flightcreate.png?raw=true)
