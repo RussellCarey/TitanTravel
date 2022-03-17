@@ -6,6 +6,7 @@ const app = express();
 const dotenv = require("dotenv");
 dotenv.config();
 
+//
 const globalErrorHandler = require("./controllers/errorController");
 
 // Routes
